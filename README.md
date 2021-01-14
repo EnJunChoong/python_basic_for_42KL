@@ -56,5 +56,27 @@ Self help notebooks are organized according to days where each day covers a few 
         5. Debugging
         6. PEP8
 </details>
+    
 
 
+#### Day 2 (Work in Progress):
+<details>
+    <summary>Expand for Topics</summary>
+    
+        1. List
+        2. Dictionary
+        3. Loops
+</details>
+    
+    
+## When you are lost:
+1. W3Schools -  [https://www.w3schools.com/python/](https://www.w3schools.com/python/)
+2. TutorialPoint -[https://www.tutorialspoint.com/python/index.htm](https://www.tutorialspoint.com/python/index.htm)
+3. Stack Overflow - [https://stackoverflow.com/](https://stackoverflow.com/)
+    
+## Additional learning resources:    
+1. Python2DayWorkshop - [https://github.com/WPSYG/Python-2-day-workshop](https://github.com/WPSYG/Python-2-day-workshop)
+2. Python10MinutesADay - [https://github.com/dennisbakhuis/python10minutesaday](https://github.com/dennisbakhuis/python10minutesaday)
+3. PythonTutorial - [https://github.com/Akuli/python-tutorial/](https://github.com/Akuli/python-tutorial)
+4. PythonResources - [https://github.com/feiskyer/python-tutorials](https://github.com/feiskyer/python-tutorials)
+    
